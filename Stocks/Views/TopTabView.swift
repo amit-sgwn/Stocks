@@ -1,3 +1,11 @@
+//
+//  TopTabView.swift
+//  Stocks
+//
+//  Created by Amit Kumar on 20/11/25.
+//
+
+
 import UIKit
 
 final class TopTabView: UIView {
